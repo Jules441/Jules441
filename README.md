@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Jules441/Jules441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on re-building apps and a variety of programs.
 - 🌱 I’m currently learning Javascript with HTML and CSS
 - 👯 I’m looking to collaborate on projects that use the above languages. 
